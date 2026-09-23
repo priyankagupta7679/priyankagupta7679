@@ -11,7 +11,7 @@
 
 <a href="https://www.linkedin.com/in/priyanka-gupta-3b0856153/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:priyanka.gupta7679@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/priyankagupta7679/priyankagupta7679/blob/main/Priyanka_Gupta_Resume.pdf"><img src="https://img.shields.io/badge/Resume-Download%20PDF-6f42c1?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/></a>
+<a href="https://github.com/priyankagupta7679/priyankagupta7679/raw/main/Priyanka_Gupta_Resume.pdf"><img src="https://img.shields.io/badge/Resume-Download%20PDF-6f42c1?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Open%20to-DevOps%20%2F%20SRE%20Roles-2ea44f?style=for-the-badge&logo=rocket&logoColor=white"/>
 <a href="https://www.credly.com/badges/0c6fe534-afd4-45a7-bacd-46888d30cdff/public_url"><img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white"/></a>
 <img src="https://komarev.com/ghpvc/?username=priyankagupta7679&style=for-the-badge&color=blueviolet&label=Profile+Views"/>
