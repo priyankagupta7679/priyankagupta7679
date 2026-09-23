@@ -1,7 +1,7 @@
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Priyanka%20Gupta&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20(SDE-1)%20%E2%80%A2%20Observability%20%E2%80%A2%20SRE&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Priyanka%20Gupta&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20%20%E2%80%A2%20Observability%20%E2%80%A2%20SRE&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=720&lines=I+keep+production+systems+healthy+%F0%9F%9A%80;Grafana+OnCall+alerting+at+%240+licence+cost;Observability+%7C+Alerting+%7C+SLA+Monitoring;AWS+%E2%80%A2+Kubernetes+%E2%80%A2+Docker+%E2%80%A2+Terraform;Led+a+team+of+6+%E2%80%A2+Client-facing+%E2%80%A2+Calm+under+incidents" alt="Typing SVG" />
