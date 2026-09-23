@@ -24,7 +24,7 @@
 
 ```yaml
 name:        Priyanka Gupta
-role:        DevOps Engineer (SDE-1) @ Polaris Smart Metering
+role:        DevOps Engineer @ Polaris Smart Metering
 experience:  5+ years in IT across Software Engineering → Support → Team Lead → DevOps
 location:    Jaipur, India 🇮🇳
 focus:       [Observability, On-call Alerting, SLA Monitoring, AWS, Kubernetes, Incident Response]
@@ -36,7 +36,7 @@ education:   MCA + BCA in Computer Science (Honours)
 learning:    [Terraform at scale, ArgoCD / GitOps, Kubernetes internals]
 ```
 
-I'm a **DevOps Engineer (SDE-1)** with an SRE mindset, and I came up the *hard, useful way*: I've written code, supported customers, led a team, and now I run and monitor production infrastructure. So I understand a production problem from all three sides — **the code, the customer, and the cloud**. 🌩️
+I'm a **DevOps Engineer** with an SRE mindset, and I came up the *hard, useful way*: I've written code, supported customers, led a team, and now I run and monitor production infrastructure. So I understand a production problem from all three sides — **the code, the customer, and the cloud**. 🌩️
 
 - 🔭 I run observability & alerting for **5 production environments** of an IoT smart-metering platform (HES / MDMS / WFM)
 - 📟 I set up **Grafana OnCall** with escalation chains and voice-call escalation at **$0 licence cost**
@@ -212,14 +212,14 @@ timeline
     2023-2025 : Assoc. Application Support Engineer · Team Lead (6)
               : Sigma Infosolutions
               : LendFoundry fintech lending (LOS/LMS)
-    2025-Now  : DevOps Engineer (SDE-1)
+    2025-Now  : DevOps Engineer
               : Polaris Smart Metering
               : Observability, on-call alerting, SLA monitoring on AWS + Kubernetes
 ```
 
 | 📅 Period | 🏢 Company | 💼 Role | ✨ What I did |
 |---|---|---|---|
-| **Jul 2025 – Present** | **Polaris Smart Metering** | DevOps Engineer (SDE-1) | Grafana OnCall at $0 licence cost. Observability with Grafana / Prometheus / Loki / Zabbix / SigNoz. Alert routing to Teams, SLA dashboards, Lambda automation, EKS & Kafka monitoring, cost audits |
+| **Jul 2025 – Present** | **Polaris Smart Metering** | DevOps Engineer | Grafana OnCall at $0 licence cost. Observability with Grafana / Prometheus / Loki / Zabbix / SigNoz. Alert routing to Teams, SLA dashboards, Lambda automation, EKS & Kafka monitoring, cost audits |
 | **Feb 2023 – Feb 2025** | **Sigma Infosolutions** | Assoc. Application Support Engineer · **Team Lead (6)** | Led a 6-member team. Jenkins/Bitbucket CI/CD, CloudWatch + OpenSearch Dashboards, RabbitMQ tracing, PostgreSQL tuning, client handling |
 | **Oct 2022 – Feb 2023** | **Mphasis** | Technical Support Engineer | ServiceNow ITSM with a 90% end-user satisfaction rate. L1/L2 support for AD, DNS, Citrix, VPN and O365 |
 | **Feb – Jul 2021** | **SWPL Geek** | Data Science Intern | Python scrapers (BeautifulSoup, Selenium) and Power BI dashboards for FAANG stock analysis |
