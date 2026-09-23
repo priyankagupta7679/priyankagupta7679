@@ -236,7 +236,7 @@ timeline
 | 🔭 [**devops-observability-stack**](https://github.com/priyankagupta7679/devops-observability-stack) | Metrics, logs, traces and alerts on Kubernetes using Helm | Prometheus · Grafana · Loki · Tempo · Alertmanager |
 | 🚨 [**cloud-alerting-to-teams**](https://github.com/priyankagupta7679/cloud-alerting-to-teams) | Serverless $0 alert relay: CloudWatch → Lambda → MS Teams | AWS Lambda · SNS · IAM · Python |
 | 📊 [**sla-monitoring-automation**](https://github.com/priyankagupta7679/sla-monitoring-automation) | SLA dashboards, plus daily health reports posted to Teams | Zabbix API · Grafana · EventBridge · Python |
-| 📚 [**devops-zero-to-hero**](https://github.com/priyankagupta7679/devops-zero-to-hero) | 🗺️ Roadmap → 🧪 Labs → 🎯 Interview Prep — start your DevOps journey | Docker · K8s · Terraform · Helm · ArgoCD · AWS |
+| 📚 [**Start-your-journey-for-devops**](https://github.com/priyankagupta7679/Start-your-journey-for-devops) | 🗺️ Roadmap → 🧪 Labs → 🎯 Interview Prep — start your DevOps journey | Docker · K8s · Terraform · Helm · ArgoCD · AWS |
 
 </div>
 
@@ -261,9 +261,9 @@ timeline
 **I switched into DevOps from support, after a career gap, so I know how confusing the path looks from the outside.**
 I put together everything that helped me, in order:
 
-<a href="https://github.com/priyankagupta7679/devops-zero-to-hero/blob/main/ROADMAP.md"><img src="https://img.shields.io/badge/1.%20Roadmap-Start%20Here-FF6F00?style=for-the-badge&logo=roadmapdotsh&logoColor=white"/></a>
-<a href="https://github.com/priyankagupta7679/devops-zero-to-hero/tree/main/labs"><img src="https://img.shields.io/badge/2.%20Hands--On%20Labs-9%20Labs-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
-<a href="https://github.com/priyankagupta7679/devops-zero-to-hero/tree/main/interview-prep"><img src="https://img.shields.io/badge/3.%20Interview%20Prep-Q%26A%20%2B%20Scenarios-2ea44f?style=for-the-badge&logo=target&logoColor=white"/></a>
+<a href="https://github.com/priyankagupta7679/Start-your-journey-for-devops/blob/main/ROADMAP.md"><img src="https://img.shields.io/badge/1.%20Roadmap-Start%20Here-FF6F00?style=for-the-badge&logo=roadmapdotsh&logoColor=white"/></a>
+<a href="https://github.com/priyankagupta7679/Start-your-journey-for-devops/tree/main/labs"><img src="https://img.shields.io/badge/2.%20Hands--On%20Labs-9%20Labs-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
+<a href="https://github.com/priyankagupta7679/Start-your-journey-for-devops/tree/main/interview-prep"><img src="https://img.shields.io/badge/3.%20Interview%20Prep-Q%26A%20%2B%20Scenarios-2ea44f?style=for-the-badge&logo=target&logoColor=white"/></a>
 
 `Linux → Git → Docker → AWS → Terraform → Kubernetes → Helm → ArgoCD → Observability → CI/CD → 🎯 Hired`
 
